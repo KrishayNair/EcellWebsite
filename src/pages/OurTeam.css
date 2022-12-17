@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+.Teams {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: space-evenly;
+  margin-top: 3rem;
+}
+.teamsImg {
+  width: 25rem;
+  padding-bottom: 5rem;
+}
+.teamHeading {
+  color: #fff;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 5rem;
+  font-weight: 550;
+  margin-top: 3rem;
+}
