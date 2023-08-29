@@ -46,8 +46,5 @@
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^6.0.0"
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
